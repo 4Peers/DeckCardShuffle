@@ -4,7 +4,7 @@ namespace DeckCardsShuffle
 {
     public class Deck
     {
-        private List<Card> _cards = new List<Card>();
+        private readonly List<Card> _cards = new();
         
         //private List<string> _suits = new List<string>(4);
         //Instead let create an Enum
@@ -37,7 +37,6 @@ namespace DeckCardsShuffle
 
         public Deck()
         {
-
             //Load the deck of cards
             //_suits.AddRange(new string[] { "Diamond", "Spades", "Heart", "Clubs" });
             

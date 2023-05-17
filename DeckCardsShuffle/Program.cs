@@ -1,5 +1,4 @@
-﻿using System.ComponentModel.Design.Serialization;
-
+﻿
 namespace DeckCardsShuffle
 {
     internal class Program
