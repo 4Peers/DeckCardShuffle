@@ -20,7 +20,7 @@ namespace DeckCardsShuffle
 
         public override string ToString()
         {
-            return ($"{Suit} Card: {Name}");
+            return ($"{Name} of {Suit}");
         }
     }
 }
