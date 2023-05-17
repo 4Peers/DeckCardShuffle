@@ -1,6 +1,6 @@
 ﻿using System.ComponentModel.Design.Serialization;
 
-namespace ConsoleApp1
+namespace DeckCardsShuffle
 {
     internal class Program
     {

@@ -5,7 +5,7 @@ using System.Net.Http.Headers;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace ConsoleApp1
+namespace DeckCardsShuffle
 {
     public class Card
     {
